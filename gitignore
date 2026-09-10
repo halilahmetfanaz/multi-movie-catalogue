@@ -1,0 +1,16 @@
+# Database credentials — copy db.properties.example to db.properties
+# and fill in your own values. Never commit the real file.
+db.properties
+
+# Compiled class files
+bin/
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
